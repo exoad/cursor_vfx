@@ -27,7 +27,7 @@ A simple desktop app written in Kotlin that adds a trail to your mouse cursor.
 
 ## custom styling
 
-Take a look under [`src/main/kotlin/net.exoad.cursorvfx/styles/`](./src/main/kotlin/net.exoad.cursorvfx/styles/) for
+Take a look under [`src/main/kotlin/net.exoad.cursorvfx/styles/`](./src/main/kotlin/net/exoad/cursorvfx/styles/) for
 some examples of custom styles, you can create your own by implementing the `TrailStyleSpec` interface.
 
 You will need to implement the following:
